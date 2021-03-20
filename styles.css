@@ -1,0 +1,33 @@
+body {
+   background-color: #131313;
+}
+
+
+
+#timer {
+   color: #131313;
+   text-indent: 10%;
+   margin-top: 10%;
+   box-sizing: border-box;
+   font-size: 4rem;
+}
+
+.container {
+   background: #2980B9;  
+   background: -webkit-linear-gradient(to left, #FFFFFF, #6DD5FA, #2980B9);  
+   background: linear-gradient(to left, #FFFFFF, #6DD5FA, #2980B9); 
+     
+   border: 2px 1px solid;
+   border-radius: 10px;
+   box-shadow: 6px 6px rgba(129, 128, 128, 0.473);
+
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-decoration: none;
+   padding: 30px 50px;
+   height: 80%;
+   width: 50%;
+   outline: none;
+   cursor: pointer;   
+}
